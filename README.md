@@ -6,7 +6,7 @@ This workbook serves as a prerequisite to learning and improving my Power BI ski
 ## **Key Excel Topics Covered**  
 
 ### **Data Management & Lookup Functions**  
-- **VLOOKUP, HLOOKUP, XLOOKUP** – Efficiently retrieve data from tables using vertical, horizontal, and dynamic lookup functions.  
+- **VLOOKUP, HLOOKUP** – Efficiently retrieve data from tables using vertical, horizontal, and dynamic lookup functions.  
 - **INDEX & MATCH** – Advanced lookup techniques for dynamic data retrieval.  
 - **Data Validation** – Implemented dropdown lists and constraints to maintain data integrity.  
 
